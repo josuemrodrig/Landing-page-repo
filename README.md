@@ -1,3 +1,5 @@
-# Landing-page-repo
-Landing page exercise odin proyect 
-.
+# Description
+
+# what i learn 
+
+
