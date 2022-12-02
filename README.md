@@ -18,7 +18,7 @@ Right now I am following The Odin Project curriculum, this is one of the project
 
 ### Screenshot
 
-![](01.png) 
+![](./img/01.png) 
 
 ### Links
 

@@ -1,0 +1,33 @@
+html, body, .conteiner{
+height: 100%;
+width: 100%;
+}
+
+.conteiner{
+display: flex;
+flex-direction: column;
+
+}
+
+.one{
+height: 30%;
+background-color: #1f2937;
+}
+
+.two{
+height: 25%; 
+}
+
+.three{
+height: 20%;  
+background-color: #e5e7eb;
+}
+
+.four{
+height: 15%; 
+}
+
+.five{
+height: 10%;
+background-color: #1f2937;  
+}
