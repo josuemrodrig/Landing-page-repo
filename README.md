@@ -24,6 +24,7 @@ Right now I am following The Odin Project curriculum, this is one of the project
 ### Links
 
 ### My process
+To recreate the web page, at least, as similar as possible, I had to review content that I had already read, especially with flexbox, because when I added something to another part of the page, another part would not fit. I feel that it helped me a lot to think about the general structure of the page and then to do it part by part, that as a small reflection
     
 ### Built with
 
@@ -35,6 +36,8 @@ Right now I am following The Odin Project curriculum, this is one of the project
 
 - Use git commands (clone, add, commit, push)
 - Flexbox
+-some comands on the terminal (cd, rm, cp, mv, cat, head, tail, etc)
+-A little bit of flexbox
 
 ### Useful resources
 
