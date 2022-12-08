@@ -100,6 +100,7 @@ height: 25%;
 
 .two-wraper{
 display: flex;
+justify-content: center;
 flex-wrap: wrap;
 height: 100%;
 }
@@ -113,45 +114,81 @@ margin-top: .5%;
 }
 
 div.bluebox{
-    border-style: solid;
-    border-radius: 5%;
-    border-color: #3882f6;
-    height: 50%;
-    width: 12%;
+border-style: solid;
+border-radius: 5%;
+border-color: #3882f6;
+height: 50%;
+width: 12%;
 }
 
 figure{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items:center;
-    flex-grow: 1;
+display: flex;
+flex-direction: column;
+align-items: center;
+flex-wrap: wrap;
+flex-grow: .5;
 }
 
-figcaption{
+.box-text{
     text-align: center;
 }
 
-
-
-
-
-
-
-
+/* section three */
 
 .three{
 height: 20%;  
 background-color: #e5e7eb;
 }
 
-.four{
-height: 15%; 
+.three-wraper{
+    display: flex;
 }
+
+.quote{
+    font-size: 2.25rem;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+    width: 80%;
+    margin-top: 1.5%;
+    }
+
+   .author{
+    width: 80%;
+    text-align: end;
+   }
+
+
+/* section four */
+.four{
+height: 15%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.four-wraper{
+width: 60%;
+height:60%;
+background-color:  #3882f6;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.btn-action{
+border-color: #F9FAF8;
+}
+
+/* section five */
 
 .five{
 height: 5%;
-background-color: #1f2937;  
+background-color: #1f2937; 
+color: #F9FAF8;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 
